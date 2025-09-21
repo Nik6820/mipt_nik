@@ -11,7 +11,6 @@ n=[0]*k ##массив для оси ординат графика количе�
 ##-----------------------------------------------конец блока переменных-------------------------------------------------------------------------
 
 
-
 ##----------------------------------------------------блок функций--------------------------------------------------------------------------------------
 ##факториал числа q
 def fact(q):
@@ -23,8 +22,26 @@ def fact(q):
 ##выборочное среднее (сумма элементов деленая на их количество)
 def selmid(nn):
     a=np.array(nn)
+##    print(sum(a)/len(a))
     return sum(a)/len(a)
 
+##среднеквадратичное отклонение (погрешность отдельного измерения)
+def deltaselmidsingle(nn): 
+    a=np.array(nn)
+    selmidn=selmid(a)
+    count=0
+    for i in range(len(a)):
+        count+=(a[i]-selmidn)**2
+    return((count/len(a))**0.5)
+
+##погрешность среднего значения
+def deltaselmid(nn): 
+    a=np.array(nn)
+    selmidn=selmid(a)
+    count=0
+    for i in range(len(a)):
+        count+=(a[i]-selmidn)**2
+    return(((count/len(a))**0.5)/len(a)**0.5)
 
 ##количество зарегестрированных частиц за t=tau
 def taumid(k,a,tau):
@@ -88,12 +105,13 @@ for i in range(1,k+1):
 rez=taumid(k,n,tau) ##первый результат: группировка по tau
 rezp=probabilitynum(rez[1]) ##второй результат: доля выпадения от количества зарегестрированных точек в группировке
 puassonfig=Puasson(rezp[1], rez[1]) ##третий результат: распределение Пуассона для данной групировки
+##print(deltaselmid(rez[1])/selmid(rez[1])*100)
 
 plt.rcParams.update({'font.size': 16})##размер текста
 plt.bar(rezp[0],rezp[1],width=1) ##отображение второго результата
 plt.plot(puassonfig[0], puassonfig[1], color='blue', linewidth=2, label=f"распределение Пуассона для группировки по {tau} секунд")##отображение третьего результата
 plt.xlabel(f"Количество зарегистрированных частиц за {tau} секунд")##подпись оси абсцисс
-plt.ylabel(f"Количество зарегистрированных частиц за {tau} секунд")##подпись оси ординат
+plt.ylabel(f"Вероятность регистрации частиц за {tau} секунд")##подпись оси ординат
 plt.legend()
 plt.grid(True, which='major', linestyle='-')#мажорная сетка
 plt.grid(True, which='minor', linestyle='--', linewidth=0.5)#минорная сетка
