@@ -106,7 +106,7 @@ rez=taumid(k,n,tau) ##первый результат: группировка п
 rezp=probabilitynum(rez[1]) ##второй результат: доля выпадения от количества зарегестрированных точек в группировке
 puassonfig=Puasson(rezp[1], rez[1]) ##третий результат: распределение Пуассона для данной групировки
 ##print(deltaselmid(rez[1])/selmid(rez[1])*100)
-
+print(rezp[1])
 plt.rcParams.update({'font.size': 16})##размер текста
 plt.bar(rezp[0],rezp[1],width=1) ##отображение второго результата
 plt.plot(puassonfig[0], puassonfig[1], color='blue', linewidth=2, label=f"распределение Пуассона для группировки по {tau} секунд")##отображение третьего результата
