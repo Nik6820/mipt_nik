@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  30 SEP 2025 15:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  30 SEP 2025 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,7 +542,7 @@ Package geometry Warning: The marginal notes overrun the paper.
 
 [1
 
-{C:/Users/yaros/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (1.2.toc)
+{C:/Users/4709459/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (1.2.toc)
 \tf@toc=\write3
 \openout3 = `1.2.toc'.
 
@@ -555,23 +555,24 @@ L3 programming layer <2025-09-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6081 strings out of 468130
- 98015 string characters out of 5440700
- 515125 words of memory out of 5000000
- 34655 multiletter control sequences out of 15000+600000
- 634060 words of font info for 49 fonts, out of 8000000 for 9000
+ 6088 strings out of 468130
+ 97993 string characters out of 5440694
+ 516125 words of memory out of 5000000
+ 34659 multiletter control sequences out of 15000+600000
+ 636135 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,275b,209s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx10
-00.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-bx1440.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\larm1000.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\labx2074.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\larm1728.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\lacc1440.pk>
-Output written on 1.2.pdf (2 pages, 77869 bytes).
+ 57i,5n,65p,275b,218s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx
+1200.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\labx1000.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\labx1440.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\larm1000.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\4709459\AppData\Local\MiKTeX\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\lacc1440.pk>
+Output written on 1.2.pdf (2 pages, 89839 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
+ 271 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
