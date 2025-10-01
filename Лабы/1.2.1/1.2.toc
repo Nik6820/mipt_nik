@@ -1,10 +1,10 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {1}Аннотация}{1}{}%
 \contentsline {section}{\numberline {2}Теоретические сведения}{1}{}%
-\contentsline {subsection}{\numberline {2.1}Метод баллистического маятника, совершающего поступательное движение}{1}{}%
-\contentsline {subsection}{\numberline {2.2}Метод крутильного баллистического маятника}{1}{}%
-\contentsline {section}{\numberline {3}Методика измерений}{1}{}%
-\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{1}{}%
-\contentsline {section}{\numberline {5}Обсуждение результатов}{1}{}%
-\contentsline {section}{\numberline {6}Вывод}{1}{}%
-\contentsline {section}{\numberline {7}Приложения}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Метод баллистического маятника, совершающего поступательное \\ движение}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Метод крутильного баллистического маятника}{2}{}%
+\contentsline {section}{\numberline {3}Методика измерений}{2}{}%
+\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{3}{}%
+\contentsline {section}{\numberline {5}Обсуждение результатов}{4}{}%
+\contentsline {section}{\numberline {6}Вывод}{4}{}%
+\contentsline {section}{\numberline {7}Приложения}{5}{}%

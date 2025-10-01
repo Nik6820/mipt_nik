@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  30 SEP 2025 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  1 OCT 2025 03:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -455,6 +455,10 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 5.
+
+
+LaTeX Warning: Label `fig:mpr' multiply defined.
+
 )
 \openout1 = `1.2.aux'.
 
@@ -474,8 +478,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
-(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count306
 \scratchdimen=\dimen180
@@ -542,37 +545,67 @@ Package geometry Warning: The marginal notes overrun the paper.
 
 [1
 
-{C:/Users/4709459/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (1.2.toc)
+{C:/Users/yaros/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (1.2.toc)
 \tf@toc=\write3
 \openout3 = `1.2.toc'.
 
 
 
-[1] (1.2.aux)
+[1]
+
+[2]
+
+[3]
+
+[4]
+<1.jpg, id=32, 1284.8pt x 963.6pt>
+File: 1.jpg Graphic file (type jpg)
+<use 1.jpg>
+Package pdftex.def Info: 1.jpg  used on input line 206.
+(pdftex.def)             Requested size: 241.84843pt x 181.38031pt.
+<2.jpg, id=33, 1284.8pt x 1237.62375pt>
+File: 2.jpg Graphic file (type jpg)
+<use 2.jpg>
+Package pdftex.def Info: 2.jpg  used on input line 213.
+(pdftex.def)             Requested size: 241.84843pt x 232.96034pt.
+
+
+[5 <./1.jpg> <./2.jpg>] (1.2.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 6088 strings out of 468130
- 97993 string characters out of 5440694
- 516125 words of memory out of 5000000
- 34659 multiletter control sequences out of 15000+600000
+ 6123 strings out of 468130
+ 98745 string characters out of 5440700
+ 531186 words of memory out of 5000000
+ 34694 multiletter control sequences out of 15000+600000
  636135 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,275b,218s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx
-1200.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1000.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\labx1440.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\larm1000.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\4709459\AppData\Local\MiKTeX\fonts/p
-k/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\4709459\AppData\Local\MiKTeX\f
-onts/pk/ljfour/lh/lh-t2a/dpi600\lacc1440.pk>
-Output written on 1.2.pdf (2 pages, 89839 bytes).
+ 57i,11n,65p,1085b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx12
+00.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+bx1000.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\labx1440.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\larm1000.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\labx2074.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\larm1728.pk> <C:\Users\yaros\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\lacc1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb>
+Output written on 1.2.pdf (6 pages, 573237 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
+ 352 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
