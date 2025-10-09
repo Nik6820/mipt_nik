@@ -1,8 +1,0 @@
-\babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Аннотация}{1}{}%
-\contentsline {section}{\numberline {2}Теоретические сведения}{1}{}%
-\contentsline {section}{\numberline {3}Методика измерений}{2}{}%
-\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{2}{}%
-\contentsline {section}{\numberline {5}Обсуждение результатов}{4}{}%
-\contentsline {section}{\numberline {6}Вывод}{4}{}%
-\contentsline {section}{\numberline {7}Приложения}{5}{}%
