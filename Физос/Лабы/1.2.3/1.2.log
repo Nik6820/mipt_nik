@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  8 OCT 2025 14:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  14 OCT 2025 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -582,8 +582,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  6119 strings out of 468130
- 98600 string characters out of 5440694
- 537186 words of memory out of 5000000
+ 98655 string characters out of 5440694
+ 536186 words of memory out of 5000000
  34692 multiletter control sequences out of 15000+600000
  634514 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -602,7 +602,7 @@ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmsy7.pfb>
-Output written on 1.2.pdf (6 pages, 235181 bytes).
+Output written on 1.2.pdf (6 pages, 236265 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
