@@ -5,6 +5,6 @@
 \contentsline {subsection}{\numberline {2.2}Метод крутильного баллистического маятника}{2}{}%
 \contentsline {section}{\numberline {3}Методика измерений}{2}{}%
 \contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{3}{}%
-\contentsline {section}{\numberline {5}Обсуждение результатов}{4}{}%
-\contentsline {section}{\numberline {6}Вывод}{4}{}%
+\contentsline {section}{\numberline {5}Обсуждение результатов}{5}{}%
+\contentsline {section}{\numberline {6}Вывод}{5}{}%
 \contentsline {section}{\numberline {7}Приложения}{5}{}%
