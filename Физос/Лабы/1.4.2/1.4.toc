@@ -1,10 +1,11 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {1}Аннотация}{1}{}%
 \contentsline {section}{\numberline {2}Теоретические сведения}{1}{}%
-\contentsline {subsection}{\numberline {2.1}Теоретическая справка}{1}{}%
-\contentsline {subsection}{\numberline {2.2}Экспериментальная установка}{2}{}%
-\contentsline {subsection}{\numberline {2.3}Теоретический подбор положения грузов}{2}{}%
-\contentsline {section}{\numberline {3}Методика измерений}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Теоретическая справка для оборотного маятника}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Экспериментальная установка оборотного маятника}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Теоретический подбор положения грузов для оборотного маятника}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Теоретическая справка для падающего тела}{2}{}%
+\contentsline {section}{\numberline {3}Методика измерений для оборотного маятника}{2}{}%
 \contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{4}{}%
 \contentsline {section}{\numberline {5}Обсуждение результатов и выводы}{4}{}%
 \contentsline {section}{\numberline {6}Приложения}{5}{}%

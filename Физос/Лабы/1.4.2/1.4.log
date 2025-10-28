@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.20)  22 OCT 2025 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.20)  28 OCT 2025 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -451,22 +451,22 @@ LaTeX Warning: Label `fig:mpr' multiply defined.
 )
 \openout1 = `1.4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count284
@@ -491,7 +491,7 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \th on input line 13.
+LaTeX Info: Redefining \th on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -574,68 +574,56 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
 
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 46.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 47.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 46.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 47.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 49.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 50.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 49.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 50.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 51.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 52.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 51.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 52.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 62.
+Package mathtext Warning: letter `cyrm' used in math mode on input line 63.
 
 
-Package mathtext Warning: letter `cyrk' used in math mode on input line 62.
+Package mathtext Warning: letter `cyrk' used in math mode on input line 63.
 
 
-Package mathtext Warning: letter `cyrg' used in math mode on input line 62.
+Package mathtext Warning: letter `cyrg' used in math mode on input line 63.
 
 [1]
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 66.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 67.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 66.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 67.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 69.
+Package mathtext Warning: letter `cyrs' used in math mode on input line 70.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 69.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 70.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 69.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 70.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 69.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 70.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 69.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 70.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 69.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 72.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 72.
-
-
-Package mathtext Warning: letter `cyrp' used in math mode on input line 72.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 72.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 70.
 
 
 Package mathtext Warning: letter `cyrs' used in math mode on input line 73.
@@ -650,28 +638,22 @@ Package mathtext Warning: letter `cyrp' used in math mode on input line 73.
 Package mathtext Warning: letter `cyrr' used in math mode on input line 73.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 73.
+Package mathtext Warning: letter `cyrs' used in math mode on input line 74.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 73.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 74.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 80.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 74.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 80.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 74.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 81.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 74.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 81.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 81.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 81.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 74.
 
 
 Package mathtext Warning: letter `cyrs' used in math mode on input line 81.
@@ -680,46 +662,58 @@ Package mathtext Warning: letter `cyrs' used in math mode on input line 81.
 Package mathtext Warning: letter `cyrt' used in math mode on input line 81.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 81.
+Package mathtext Warning: letter `cyrs' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 81.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrg' used in math mode on input line 84.
+Package mathtext Warning: letter `cyrs' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 84.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 87.
+Package mathtext Warning: letter `cyrs' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 87.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 87.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrg' used in math mode on input line 87.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 82.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 87.
+Package mathtext Warning: letter `cyrg' used in math mode on input line 85.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 92.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 85.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 92.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 88.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 92.
+Package mathtext Warning: letter `cyrs' used in math mode on input line 88.
 
 
-Package mathtext Warning: letter `cyrg' used in math mode on input line 94.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 88.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 94.
+Package mathtext Warning: letter `cyrg' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 93.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 93.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 93.
 
 
 Package mathtext Warning: letter `cyrg' used in math mode on input line 95.
@@ -728,35 +722,628 @@ Package mathtext Warning: letter `cyrg' used in math mode on input line 95.
 Package mathtext Warning: letter `cyrr' used in math mode on input line 95.
 
 
-Package mathtext Warning: letter `cyrg' used in math mode on input line 95.
+Package mathtext Warning: letter `cyrg' used in math mode on input line 96.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 95.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 96.
 
 
-Package mathtext Warning: letter `cyrp' used in math mode on input line 95.
+Package mathtext Warning: letter `cyrg' used in math mode on input line 96.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 95.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 96.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 95.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 96.
 
-[2] [3] [4]
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 96.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 96.
+
+[2] [3]
+
+Package mathtext Warning: letter `CYRM' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrzh' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 125.
+
+
+Package mathtext Warning: letter `CYRM' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrery' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 126.
+
+
+Package mathtext Warning: letter `CYRM' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrery' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 127.
+
+
+Package mathtext Warning: letter `CYRM' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyru' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `CYRM' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyru' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyrb' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyrshch' used in math mode on input line 130.
+
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 130.
+
+
+Package mathtext Warning: letter `CYRD' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrzh' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `CYRR' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrzh' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyru' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 141.
+
+
+Package mathtext Warning: letter `CYRR' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrch' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 142.
+
+
+Package mathtext Warning: letter `CYRR' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrch' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 143.
+
+
+Package mathtext Warning: letter `CYRR' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `CYRP' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `CYRR' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrya' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyri' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `CYRP' used in math mode on input line 145.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 177.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 177.
+
+[4]
 <1.png, id=37, 195.73125pt x 359.84438pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 127.
+Package pdftex.def Info: 1.png  used on input line 186.
 (pdftex.def)             Requested size: 96.73788pt x 177.85172pt.
 <2.png, id=39, 410.2828pt x 172.39406pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 133.
+Package pdftex.def Info: 2.png  used on input line 192.
 (pdftex.def)             Requested size: 290.22107pt x 121.94554pt.
 <3.png, id=40, 699.36281pt x 350.81062pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 139.
+Package pdftex.def Info: 3.png  used on input line 198.
 (pdftex.def)             Requested size: 290.22107pt x 145.57834pt.
  [5 <./1.png> <./2.png> <./3.png>] (./1.4.aux)
  ***********
@@ -772,13 +1359,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6494 strings out of 475656
- 104740 string characters out of 5787140
+ 6500 strings out of 475656
+ 104887 string characters out of 5787140
  1938975 words of memory out of 5000000
- 28453 multiletter control sequences out of 15000+600000
+ 28459 multiletter control sequences out of 15000+600000
  568990 words of font info for 51 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 57i,6n,65p,674b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,674b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0500.600p
 k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0700.600p
 k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600p
@@ -798,9 +1385,9 @@ pe1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy7.pfb>
-Output written on 1.4.pdf (6 pages, 303368 bytes).
+Output written on 1.4.pdf (6 pages, 309311 bytes).
 PDF statistics:
- 386 PDF objects out of 1000 (max. 8388607)
+ 392 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
