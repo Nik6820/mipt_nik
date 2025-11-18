@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.20)  18 NOV 2025 18:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.20)  19 NOV 2025 01:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**1.4.8
-(./1.4.8
+**1.4.8.tex
+(./1.4.8.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -436,13 +436,20 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box55
 )
-(./1.4.aux
+(./1.4.8.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
 .
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-\openout1 = `1.4.aux'.
+)
+
+LaTeX Warning: Label `fig:mpr' multiply defined.
+
+
+LaTeX Warning: Label `fig:mpr' multiply defined.
+
+)
+\openout1 = `1.4.8.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -460,8 +467,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count284
 \scratchdimen=\dimen172
@@ -527,53 +533,151 @@ Package geometry Warning: The marginal notes overrun the paper.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./1.4.toc)
-\tf@toc=\write3
-\openout3 = `1.4.toc'.
-
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./1.4.8.toc
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 43.
+(Font)              using `T2A/cmr/m/n' instead on input line 6.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 4
-3.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
+.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 43.
+(Font)              using `OML/cmr/m/it' instead on input line 6.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
-3.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
+.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 43.
+(Font)              using `OMS/cmr/m/n' instead on input line 6.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
-[1]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+)
+\tf@toc=\write3
+\openout3 = `1.4.8.toc'.
+
+ [1]
 
 Package mathtext Warning: letter `cyrm' used in math mode on input line 71.
 
 
 Package mathtext Warning: letter `cyrs' used in math mode on input line 71.
 
-[2] [3] (./1.4.aux)
+[2]
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 128.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 128.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 130.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 130.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 130.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 131.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+Overfull \hbox (10.88359pt too wide) in paragraph at lines 202--202
+[]\T2A/cmr/bx/n/12 Ёксперимент с по-ло-ви-ной ре-зо-нанс-ной ча-сто-ты в дю-ра-
+лю-ми-ни-е-вом стержне 
+ []
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 206.
+
+
+Package mathtext Warning: letter `cyryu' used in math mode on input line 206.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 206.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 212.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 212.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 212.
+
+<Figure_2.png, id=33, 1387.584pt x 638.1441pt>
+File: Figure_2.png Graphic file (type png)
+<use Figure_2.png>
+Package pdftex.def Info: Figure_2.png  used on input line 233.
+(pdftex.def)             Requested size: 483.69687pt x 222.44821pt.
+<Figure_1.png, id=35, 1387.584pt x 638.1441pt>
+File: Figure_1.png Graphic file (type png)
+<use Figure_1.png>
+Package pdftex.def Info: Figure_1.png  used on input line 239.
+(pdftex.def)             Requested size: 483.69687pt x 222.44821pt.
+<lissaju.jpg, id=36, 963.6pt x 1284.8pt>
+File: lissaju.jpg Graphic file (type jpg)
+<use lissaju.jpg>
+Package pdftex.def Info: lissaju.jpg  used on input line 245.
+(pdftex.def)             Requested size: 241.84843pt x 322.4539pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <./Figure_2.png> <./Figure_1.png>] [6 <./lissaju.jpg>] (./1.4.8.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -582,16 +686,20 @@ L3 programming layer <2024-01-22>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 6455 strings out of 475656
- 104208 string characters out of 5787140
- 1937975 words of memory out of 5000000
- 28416 multiletter control sequences out of 15000+600000
- 567369 words of font info for 49 fonts, out of 8000000 for 9000
+ 6530 strings out of 475656
+ 105480 string characters out of 5787140
+ 1945975 words of memory out of 5000000
+ 28479 multiletter control sequences out of 15000+600000
+ 574006 words of font info for 65 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 57i,5n,65p,916b,252s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0700.600p
+ 57i,13n,65p,920b,318s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600p
+k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0700.600p
 k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.600p
 k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600p
 k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600p
@@ -600,17 +708,18 @@ k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600p
 k> </home/nikita/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lacc1440.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy7.pfb>
-Output written on 1.4.pdf (4 pages, 167684 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb>
+Output written on 1.4.8.pdf (7 pages, 520488 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 417 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
