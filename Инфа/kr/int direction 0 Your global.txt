@@ -1,0 +1,285 @@
+int direction = 0;                              //  <======== Your global values.
+bool flag=false;                        //  <======== You can add you functions here.
+int moving=0;
+char a[4]={'u', 'r', 'd', 'l'};
+bool flagbypass=false;
+int bypassstep=0;
+char bypass[7]={'l','d','d','r','u','u','u'};
+bool rock=false;
+bool rock_did=true;
+int rock_x=1, rock_y=1;
+int rock_goal_x, rock_goal_y;
+void Reset()                                    //  <======== You can set or reset you globals
+{                                               //            before each test.
+	direction = 0;
+	rock_did=true;
+}
+
+// void MyOwnFunc(){}   
+
+char Move(char map[][8], int ant_x, int ant_y, int home_x, int home_y, int sample_x, int sample_y) // <======= YEP, THIS IS IT
+{
+	//обход камня
+
+	    //часть для заготовленных кусков обхода
+    if (flagbypass){
+        if (bypassstep<7)
+        {
+            bypassstep++;
+            return bypass[bypassstep-1];
+        }
+        else{
+            flagbypass=false;
+            bypassstep=0;
+        }
+    }
+    //часть для заготовленного одного движения
+    if (flag)
+    {
+        flag=false;
+        return a[moving];
+    }
+	//*из*е* камушки
+	for (int x = 0; x < 8; x++)
+		{
+			for (int y = 0; y < 8; y++)
+			{
+				if(map[x][y]=='#'){
+					rock_x=x;
+					rock_y=y;
+					rock=true;
+				}
+			}
+			
+	}
+	if ((rock_x==0 && rock_y==0)||(rock_x==7 && rock_y==0)||(rock_x==0 && rock_y==7)||(rock_x==7 && rock_y==7)){
+		rock=false;
+	}
+	if (rock && rock_did){
+		if (map[0][0]=='.'){
+			rock_goal_x=0;
+			rock_goal_y=0;
+		}
+		if (map[0][7]=='.'){
+			rock_goal_x=0;
+			rock_goal_y=7;
+		}
+		if (map[7][0]=='.'){
+			rock_goal_x=7;
+			rock_goal_y=0;
+		}
+		if (map[7][7]=='.'){
+			rock_goal_x=7;
+			rock_goal_y=7;
+		}
+		if (rock_x==ant_x)
+		{
+			if (ant_y+1<rock_y){
+				return 'r';
+			}
+			if (ant_y>rock_y+1){
+				return 'l';
+			}
+			if (ant_y+1==rock_y){
+				char bypass1[7]={'r','d','l','d','r','u','l'};
+            	for (int i = 0; i < 7; i++)
+            	{
+                	bypass[i]=bypass1[i];
+            	}
+            	flagbypass=true;
+				rock_did=false;
+				return 'u';
+			}
+
+			if (ant_y==rock_y+1){
+				char bypass1[7]={'l','d','r','d','l','u','r'};
+            	for (int i = 0; i < 7; i++)
+            	{
+                	bypass[i]=bypass1[i];
+            	}
+            	flagbypass=true;
+				rock_did=false;
+				return 'u';
+			}
+		}
+		if (rock_y==ant_y)
+		{
+			if (ant_x+1<rock_x){
+				return 'd';
+			}
+			if (ant_x>rock_x+1){
+				return 'u';
+			}
+			if (ant_x+1==rock_x){
+				char bypass1[7]={'d','l','u','l','d','r','u'};
+            	for (int i = 0; i < 7; i++)
+            	{
+                	bypass[i]=bypass1[i];
+            	}
+            	flagbypass=true;
+				rock_did=false;
+				return 'r';
+			}
+
+			if (ant_x==rock_x+1){
+				char bypass1[7]={'u','l','d','l','u','r','d'};
+            	for (int i = 0; i < 7; i++)
+            	{
+                	bypass[i]=bypass1[i];
+            	}
+            	flagbypass=true;
+				rock_did=false;
+				return 'r';
+			}
+		}
+	}
+
+    //1001 случай у стенки, когда мне камень нужно поставить к стене, чтобы потом доставить к площадке, которая у той же стены
+    if (home_y==7 && ant_y==7 && sample_y==6){
+        if (ant_x!=0){
+            char bypass1[7]={'u','l','l','d','r','u','r'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+        else{
+            char bypass1[7]={'d','l','l','u','r', 'd', 'r'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+    }
+    if (home_y==0 && ant_y==0 && sample_y==1){
+        if (ant_x!=0){
+            char bypass1[7]={'u','r','r','d','l', 'u', 'l'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+        else{
+            char bypass1[7]={'d','r','r','u','l','d','r'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+    }
+    if (home_x==7 && ant_x==7 && sample_x==6){
+        if (ant_y!=0){
+            char bypass1[7]={'l','u','u','r','d','l','d'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+        else{
+            char bypass1[7]={'r','u','u','l','d','r','d'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+    }
+    if (home_x==0 && ant_x==0 && sample_x==1){
+        if (ant_y!=0){
+            char bypass1[7]={'l','d','d','r','u','l','u'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+        else{
+            char bypass1[7]={'r','d','d','l','u','r','u'};
+            for (int i = 0; i < 7; i++)
+            {
+                bypass[i]=bypass1[i];
+            }
+            flagbypass=true;
+        }
+    }
+    //самый классный случай, когда все на одной прямой (без учета камней, буду флаг ставить)
+    if (ant_x==sample_x && ant_x==home_x){
+        if (ant_y+1<sample_y){
+            return 'r';
+        }
+        if (ant_y>sample_y+1){
+            return 'l';
+        }
+        if (ant_y+1==sample_y){
+            return 'l';
+        }
+
+        if (ant_y==sample_y+1){
+            return 'r';
+        }
+    }
+    if (ant_y==sample_y && ant_y==home_y){
+        if (ant_x+1<sample_x){
+            return 'd';
+        }
+        if (ant_x+1==sample_x){
+            return 'u';
+        }
+        if (ant_x>sample_x+1){
+            return 'u';
+        }
+        if (ant_x==sample_x+1){
+            return 'd';
+        }
+    }
+    //также без учета камней начальный поиск ведра и доставка его на линию с площадкой, с дальнейшей установкой лунохода с ними на одну линию
+    if (ant_y<sample_y){
+        return 'r';
+    }
+    if (ant_y>sample_y){
+        return 'l';
+    }
+    if (ant_y==sample_y){
+        if (sample_x==home_x){
+            flag=true;
+            if(ant_x>home_x)
+            {
+                moving=0;
+            }
+            else
+            {
+                moving=2;
+            }
+            if(sample_y>home_y)
+            {
+            return 'l';
+            }
+            else
+            {
+            return 'r';
+            }
+        }
+        if (ant_x+1<sample_x){
+            return 'd';
+        }
+        if (ant_x+1==sample_x){
+            return 'u';
+        }
+        if (ant_x>sample_x+1){
+            return 'u';
+        }
+        if (ant_x==sample_x+1){
+            return 'd';
+        }
+    }
+    
+
+    //камни в следующих тестах хочу растаскивать в углы, чтобы они не мешали.
+    return 'r';
+}
+

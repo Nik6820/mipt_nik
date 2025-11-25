@@ -1,0 +1,311 @@
+#####	Starting new Antonina runs!
+#####	STEPS_LIMIT=256	N_TESTS=20
+#####	Starting Test 00...
+#	New test...  done in 1 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 1 steps!
+#	New test...  done in 7 steps!
+#	New test...  done in 1 steps!
+#	New test...  done in 7 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 7 steps!
+#	New test...  done in 7 steps!
+#	New test...  done in 7 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 1 steps!
+#	New test...  done in 3 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 3 steps!
+#	New test...  done in 1 steps!
+#	New test...  done in 1 steps!
+#	New test...  done in 3 steps!
+#	New test...  done in 1 steps!
+#####	Test 00: winrate=100% av.steps=4 score=98
+#####	Starting Test 01...
+#	New test...  done in 15 steps!
+#	New test...  done in 13 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 13 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 13 steps!
+#	New test...  done in 7 steps!
+#	New test...  done in 11 steps!
+#	New test...  done in 9 steps!
+#	New test...  done in 11 steps!
+#	New test...  done in 15 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 13 steps!
+#####	Test 01: winrate=100% av.steps=9 score=96
+#####	Starting Test 02...
+#	New test...  done in 18 steps!
+#	New test...  done in 6 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 14 steps!
+#	New test...  done in 18 steps!
+#	New test...  done in 13 steps!
+#	New test...  done in 5 steps!
+#	New test...  done in 16 steps!
+#	New test...  done in 10 steps!
+#	New test...  done in 16 steps!
+#	New test...  done in 4 steps!
+#	New test...  done in 1 steps!
+#	New test...  done in 14 steps!
+#	New test...  done in 23 steps!
+#	New test...  done in 19 steps!
+#	New test...  done in 12 steps!
+#	New test...  done in 16 steps!
+#	New test...  done in 14 steps!
+#	New test...  done in 7 steps!
+#	New test...  done in 16 steps!
+#####	Test 02: winrate=100% av.steps=12 score=95
+#####	Starting Test 03...
+#	New test...  done in 20 steps!
+#	New test...  done in 41 steps!
+#	New test...  done in 21 steps!
+#	New test...  done in 21 steps!
+#	New test...  done in 20 steps!
+#	New test...  done in 41 steps!
+#	New test...  done in 19 steps!
+#	New test...  done in 22 steps!
+#	New test...  done in 20 steps!
+#	New test...  done in 22 steps!
+#	New test...  done in 20 steps!
+#	New test...  done in 39 steps!
+#	New test...  done in 41 steps!
+#	New test...  done in 21 steps!
+#	New test...  done in 19 steps!
+#	New test...  done in 19 steps!
+#	New test...  done in 40 steps!
+#	New test...  done in 20 steps!
+#	New test...  done in 19 steps!
+#	New test...  done in 23 steps!
+#####	Test 03: winrate=100% av.steps=25 score=90
+#####	Starting Test 04...
+#	New test...  done in 94 steps!
+#	New test...  done in 97 steps!
+#	New test...  done in 101 steps!
+#	New test...  done in 94 steps!
+#	New test...  fail!
+#	New test...  done in 100 steps!
+#	New test...  done in 100 steps!
+#	New test...  done in 90 steps!
+#	New test...  fail!
+#	New test...  done in 104 steps!
+#	New test...  done in 102 steps!
+#	New test...  done in 104 steps!
+#	New test...  done in 84 steps!
+#	New test...  done in 96 steps!
+#	New test...  done in 85 steps!
+#	New test...  done in 102 steps!
+#	New test...  done in 101 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 04: winrate=75% av.steps=96 score=46
+#####	Starting Test 05...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 101 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 98 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 05: winrate=10% av.steps=99 score=6
+#####	Starting Test 06...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 95 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 103 steps!
+#	New test...  fail!
+#	New test...  done in 86 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 97 steps!
+#####	Test 06: winrate=20% av.steps=95 score=12
+#####	Starting Test 07...
+#	New test...  done in 7 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 9 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 82 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 99 steps!
+#	New test...  done in 96 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 101 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 07: winrate=30% av.steps=65 score=22
+#####	Starting Test 08...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 9 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 5 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 90 steps!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  done in 91 steps!
+#	New test...  fail!
+#####	Test 08: winrate=20% av.steps=48 score=16
+#####	Starting Test 09...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 09: winrate=0% av.steps=0 score=0
+#####	Starting Test 10...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 10: winrate=0% av.steps=0 score=0
+#####	Starting Test 11...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 11: winrate=0% av.steps=0 score=0
+#####	Starting Test 12...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 12: winrate=0% av.steps=0 score=0
+#####	Starting Test 13...
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#	New test...  fail!
+#####	Test 13: winrate=0% av.steps=0 score=0
+#####	All done!
