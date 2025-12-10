@@ -1,6 +1,10 @@
-\babel@toc {russian}{}
-\contentsline {section}{\numberline {1}Аннотация}{1}%
-\contentsline {section}{\numberline {2}Теоретические сведения}{1}%
-\contentsline {section}{\numberline {3}Методика измерений}{2}%
-\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{3}%
-\contentsline {section}{\numberline {5}Выводы}{3}%
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{1}{}%
+\contentsline {section}{\numberline {2}Теоретические сведения}{1}{}%
+\contentsline {section}{\numberline {3}Методика измерений}{2}{}%
+\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Скорость вынужденной прецессии гироскопа}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Момент инерции ротора}{3}{}%
+\contentsline {subsection}{\numberline {4.3}Угловая скорость вращения ротора гироскопа}{3}{}%
+\contentsline {section}{\numberline {5}Выводы}{4}{}%
+\contentsline {section}{\numberline {6}Приложения}{4}{}%
