@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 import warnings
 warnings.filterwarnings('ignore')
-
+plt.rcParams['font.size'] = 14
 class DoubleMassPendulumFitter:
     """
     Класс для подбора параметров маятника с двумя одинаковыми грузами:
@@ -203,9 +203,8 @@ class DoubleMassPendulumFitter:
         fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))
         
         # График 1: T от R_н
-        ax1.errorbar(self.R_lower_vals * 1000, self.T_vals, 
-                    yerr=self.T_err_vals, fmt='o', capsize=5,
-                    label='Экспериментальные данные', color='blue', markersize=8)
+        ax1.scatter(self.R_lower_vals * 1000, self.T_vals, 
+                    label='Экспериментальные данные', color='blue')
         
         # Генерация гладкой кривой для модели
         R_min = max(self.R_upper_fixed * 1.1, min(self.R_lower_vals) * 0.9)
@@ -586,9 +585,8 @@ def analyze_double_mass_pendulum():
     fig, ax = plt.subplots(figsize=(10, 6))
     
     # Экспериментальные данные
-    ax.errorbar(R_lower_vals * 1000, T_vals, yerr=T_err_vals, 
-                fmt='o', capsize=5, label='Экспериментальные данные', 
-                color='black', markersize=8)
+    ax.scatter(R_lower_vals * 1000, T_vals, label='Экспериментальные данные', 
+                color='black')
     
     # Модель с двумя грузами
     if 'popt_double' in locals():
@@ -608,9 +606,6 @@ def analyze_double_mass_pendulum():
     ax.grid(True, alpha=0.3)
     ax.legend(loc='best')
     
-    # Вертикальная линия для верхнего груза
-    ax.axvline(x=43, color='green', linestyle=':', alpha=0.7, 
-               label='Верхний груз (43 мм)')
     ax.legend(loc='best')
     
     plt.tight_layout()

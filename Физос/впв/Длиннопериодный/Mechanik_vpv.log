@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2025.11.26)  24 DEC 2025 01:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2025.11.26)  26 DEC 2025 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,19 +545,221 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
 \tf@toc=\write3
 \openout3 = `Mechanik_vpv.toc'.
 
- [1] [2] [3] [4] [5] (./Mechanik_vpv.aux)
+ [1] [2] [3] [4]
+
+Package mathtext Warning: letter `cyrb' used in math mode on input line 192.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 192.
+
+
+Overfull \hbox (38.75705pt too wide) in paragraph at lines 189--195
+[][] 
+ []
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 201.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 201.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 201.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 201.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 201.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 201.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 201.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 201.
+
+[5]
+<1.png, id=40, 856.19875pt x 702.625pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 212.
+(pdftex.def)             Requested size: 483.69687pt x 396.94098pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 212--213
+[][] 
+ []
+
+[6 <./1.png>]
+<2_1.png, id=47, 759.83875pt x 693.59125pt>
+File: 2_1.png Graphic file (type png)
+<use 2_1.png>
+Package pdftex.def Info: 2_1.png  used on input line 216.
+(pdftex.def)             Requested size: 483.69687pt x 441.5368pt.
+<2_2.png, id=48, 633.36626pt x 529.98pt>
+File: 2_2.png Graphic file (type png)
+<use 2_2.png>
+Package pdftex.def Info: 2_2.png  used on input line 217.
+(pdftex.def)             Requested size: 483.69687pt x 404.75407pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 216--218
+[][]
+ []
+
+[7 <./2_1.png>] [8 <./2_2.png>]
+<3.png, id=57, 601.24625pt x 484.81125pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 221.
+(pdftex.def)             Requested size: 483.69687pt x 390.03922pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 221--222
+[][] 
+ []
+
+[9 <./3.png>]
+<4.png, id=62, 889.3225pt x 591.20876pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 225.
+(pdftex.def)             Requested size: 483.69687pt x 321.55737pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 225--229
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--229
+
+ []
+
+<5_1.png, id=63, 674.52pt x 360.34625pt>
+File: 5_1.png Graphic file (type png)
+<use 5_1.png>
+Package pdftex.def Info: 5_1.png  used on input line 230.
+(pdftex.def)             Requested size: 483.69687pt x 258.4099pt.
+<5_2.png, id=64, 665.48625pt x 328.22626pt>
+File: 5_2.png Graphic file (type png)
+<use 5_2.png>
+Package pdftex.def Info: 5_2.png  used on input line 231.
+(pdftex.def)             Requested size: 483.69687pt x 238.56645pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 230--237
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--237
+
+ []
+
+[10 <./4.png> <./5_1.png>]
+<6.png, id=70, 710.655pt x 538.01pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 238.
+(pdftex.def)             Requested size: 483.69687pt x 366.19496pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 238--239
+[][] 
+ []
+
+[11 <./5_2.png> <./6.png>]
+<7.jpg, id=76, 4015.0pt x 3011.25pt>
+File: 7.jpg Graphic file (type jpg)
+<use 7.jpg>
+Package pdftex.def Info: 7.jpg  used on input line 242.
+(pdftex.def)             Requested size: 483.69687pt x 362.7588pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 242--243
+[][] 
+ []
+
+[12 <./7.jpg>]
+<8.jpg, id=81, 4015.0pt x 3011.25pt>
+File: 8.jpg Graphic file (type jpg)
+<use 8.jpg>
+Package pdftex.def Info: 8.jpg  used on input line 247.
+(pdftex.def)             Requested size: 483.69687pt x 362.7588pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 247--248
+[][] 
+ []
+
+<9.png, id=82, 1387.584pt x 655.4889pt>
+File: 9.png Graphic file (type png)
+<use 9.png>
+Package pdftex.def Info: 9.png  used on input line 251.
+(pdftex.def)             Requested size: 483.69687pt x 228.49437pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 251--252
+[][] 
+ []
+
+[13 <./8.jpg> <./9.png>]
+<10_1.jpg, id=87, 4015.0pt x 3011.25pt>
+File: 10_1.jpg Graphic file (type jpg)
+<use 10_1.jpg>
+Package pdftex.def Info: 10_1.jpg  used on input line 256.
+(pdftex.def)             Requested size: 386.95897pt x 290.20703pt.
+<10_2.jpg, id=88, 1284.8pt x 964.60374pt>
+File: 10_2.jpg Graphic file (type jpg)
+<use 10_2.jpg>
+Package pdftex.def Info: 10_2.jpg  used on input line 258.
+(pdftex.def)             Requested size: 386.95897pt x 290.5167pt.
+ [14 <./10_1.jpg> <./10_2.jpg>]
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 261.
+
+<11.png, id=92, 1003.75pt x 909.3975pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 263.
+(pdftex.def)             Requested size: 483.69687pt x 438.24039pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 263--264
+[][] 
+ []
+
+<12.png, id=93, 1387.584pt x 655.4889pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 267.
+(pdftex.def)             Requested size: 483.69687pt x 228.49437pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 267--268
+[][] 
+ []
+
+[15 <./11.png> <./12.png>]
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 270.
+
+<13.png, id=99, 1387.584pt x 655.4889pt>
+File: 13.png Graphic file (type png)
+<use 13.png>
+Package pdftex.def Info: 13.png  used on input line 272.
+(pdftex.def)             Requested size: 483.69687pt x 228.49437pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 272--273
+[][] 
+ []
+
+[16 <./13.png>] (./Mechanik_vpv.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5413 strings out of 481239
- 78421 string characters out of 5920376
+ 5514 strings out of 481239
+ 79368 string characters out of 5920376
  335931 words of memory out of 5000000
- 20630 multiletter control sequences out of 15000+600000
+ 20713 multiletter control sequences out of 15000+600000
  543259 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,42p,953b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,8n,42p,929b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
@@ -572,12 +774,13 @@ hare/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 fbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/sh
 are/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-rm1728.pfb>
-Output written on Mechanik_vpv.pdf (6 pages, 231564 bytes).
+1/public/cm-super/sfrm0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+rm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on Mechanik_vpv.pdf (17 pages, 13836694 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 165 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

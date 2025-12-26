@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2025.11.26)  9 DEC 2025 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2025.11.26)  26 DEC 2025 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,7 +422,11 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
 .
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+)
+
+LaTeX Warning: Label `fig:mpr' multiply defined.
+
+)
 \openout1 = `1.2.2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -441,8 +445,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count198
 \scratchdimen=\dimen165
@@ -703,13 +706,13 @@ ik/Desktop/mipt_nik/Физос/Лабы/1.2.2/Figure_1.png>] (./1.2.2.aux)
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  5442 strings out of 481239
  79332 string characters out of 5920376
- 333934 words of memory out of 5000000
+ 333973 words of memory out of 5000000
  20657 multiletter control sequences out of 15000+600000
  541638 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

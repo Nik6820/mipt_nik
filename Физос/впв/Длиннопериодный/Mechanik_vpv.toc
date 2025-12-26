@@ -2,13 +2,12 @@
 \contentsline {section}{\numberline {1}Аннотация}{1}%
 \contentsline {section}{\numberline {2}Теоретические сведения}{1}%
 \contentsline {subsection}{\numberline {2.1}Безразмерное уравнение движения физического маятника с вязким трением}{1}%
-\contentsline {subsection}{\numberline {2.2}Фазовая диаграмма нелинейного маятника с затуханием}{1}%
-\contentsline {subsection}{\numberline {2.3}Закон сохранения энергии для нелинейного маятника с затуханием}{2}%
-\contentsline {subsection}{\numberline {2.4}Связь апмлитуды колебаний и угловых скоростей в положении равновесия.}{2}%
-\contentsline {subsection}{\numberline {2.5}Период колебаний.}{3}%
-\contentsline {subsection}{\numberline {2.6}Определение периода линейных колебаний.}{3}%
-\contentsline {subsection}{\numberline {2.7}Измерения скорости и полупериода колебаний с помощью оптоэлектронного датчика.}{4}%
+\contentsline {subsection}{\numberline {2.2}Закон сохранения энергии для нелинейного маятника с затуханием}{2}%
+\contentsline {subsection}{\numberline {2.3}Связь апмлитуды колебаний и угловых скоростей в положении равновесия.}{2}%
+\contentsline {subsection}{\numberline {2.4}Период колебаний.}{3}%
+\contentsline {subsection}{\numberline {2.5}Определение периода линейных колебаний.}{3}%
+\contentsline {subsection}{\numberline {2.6}Измерения скорости и полупериода колебаний с помощью оптоэлектронного датчика.}{4}%
 \contentsline {section}{\numberline {3}Методика измерений}{4}%
-\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{5}%
+\contentsline {section}{\numberline {4}Результаты измерений и обработка данных}{4}%
 \contentsline {section}{\numberline {5}Выводы}{5}%
-\contentsline {section}{\numberline {6}Приложения}{5}%
+\contentsline {section}{\numberline {6}Приложения}{6}%

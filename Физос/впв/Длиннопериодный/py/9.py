@@ -1,8 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 import math
 from scipy.special import ellipk
+
+plt.rcParams['font.size'] = 14
 def normalized_period(phi_rad):
     # Аргумент для эллиптического интеграла
     k_squared = np.sin(phi_rad / 2) ** 2
@@ -46,7 +47,7 @@ def scat(name, ln, alph, T0):
     A=np.array(A)
     T=T/T0/1193180
     print((normalized_period(A)-T)*T0)
-    plt.scatter(A, T, s=4)
+    plt.scatter(A, T, s=4, label=name+" эксперимент")
 
 
 
