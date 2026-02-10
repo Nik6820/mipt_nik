@@ -1,133 +1,128 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2025.11.26)  26 DEC 2025 14:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.7)  7 FEB 2026 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**1.4.8.tex
-(./1.4.8.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
+**2.1.3.tex
+(./2.1.3.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen134
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
 (/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
 Package: mathtext 2018/04/14 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 121.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen137
-\WF@size=\dimen138
-\c@WF@wrappedlines=\count175
-\WF@box=\box45
-\WF@everypar=\toks15
+\wrapoverhang=\dimen143
+\WF@size=\dimen144
+\c@WF@wrappedlines=\count195
+\WF@box=\box51
+\WF@everypar=\toks18
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip49
-\enit@outerparindent=\dimen139
-\enit@toks=\toks16
-\enit@inbox=\box46
-\enit@count@id=\count176
-\enitdp@description=\count177
+\labelindent=\skip50
+\enit@outerparindent=\dimen145
+\enit@toks=\toks19
+\enit@inbox=\box52
+\enit@count@id=\count196
+\enitdp@description=\count197
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 61.
-\captionmargin=\dimen140
-\captionmargin@=\dimen141
-\captionwidth=\dimen142
-\caption@tempdima=\dimen143
-\caption@indent=\dimen144
-\caption@parindent=\dimen145
-\caption@hangindent=\dimen146
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen146
+\captionmargin=\dimen147
+\caption@leftmargin=\dimen148
+\caption@rightmargin=\dimen149
+\caption@width=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count178
-\c@continuedfloat=\count179
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/02/14 3.40 The Babel package
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2020/02/14 3.40 Babel switching mechanism
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count180
-\U@D=\dimen147
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count266
+\U@D=\dimen154
+\l@unhyphenated=\language89
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count181
-)
-Package babel Info: \l@canadian = using hyphenrules for english
-(babel)             (\language0) on input line 102.
-Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language39) on input line 105.
-Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language39) on input line 108.
+\bbl@dirlevel=\count267
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language33). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language33). Reported on input line 108.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russian 2017/08/12 1.3j Russian support for the Babel system
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
 
 
 Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                A font encoding should be declared before babel.
-(babel)                Default `T2A' encoding will be loaded  on input line 74.
+(babel)                Default `T2A' encoding will be loaded  on input line 78.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -313,7 +308,9 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+2031 (decimal 8241)
    defining Unicode char U+2116 (decimal 8470)
    defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
    defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+27E8 (decimal 10216)
    defining Unicode char U+27E9 (decimal 10217)
@@ -327,68 +324,86 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
 )
 \symT2Aletters=\mathgroup4
 )
-Package babel Info: Making " an active character on input line 120.
-Package babel Info: Default for \cyrdash is provided on input line 157.
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip50
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
-\ex@=\dimen148
+\@emptytoks=\toks20
+\ex@=\dimen155
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen149
+\pmbraise@=\dimen156
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count182
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count183
-\leftroot@=\count184
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count185
-\DOTSCASE@=\count186
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen150
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+\inf@bad=\count268
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count269
+\leftroot@=\count270
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count271
+\DOTSCASE@=\count272
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen157
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 \symOMLletters=\mathgroup5
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \symOMSletters=\mathgroup6
-\macc@depth=\count187
-\c@MaxMatrixCols=\count188
+\macc@depth=\count273
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count274
 \dotsspace@=\muskip16
-\c@parentequation=\count189
-\dspbrk@lvl=\count190
-\tag@help=\toks18
-\row@=\count191
-\column@=\count192
-\maxfields@=\count193
-\andhelp@=\toks19
-\eqnshift@=\dimen151
-\alignsep@=\dimen152
-\tagshift@=\dimen153
-\tagwidth@=\dimen154
-\totwidth@=\dimen155
-\lineht@=\dimen156
-\@envbody=\toks20
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks21
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks22
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
+\@envbody=\toks23
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -397,33 +412,33 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen157
-\Gm@wd@mp=\dimen158
-\Gm@odd@mp=\dimen159
-\Gm@even@mp=\dimen160
-\Gm@layoutwidth=\dimen161
-\Gm@layoutheight=\dimen162
-\Gm@layouthoffset=\dimen163
-\Gm@layoutvoffset=\dimen164
-\Gm@dimlist=\toks22
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks25
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count197
-\l__pdf_internal_box=\box49
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box55
 )
-(./1.4.8.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
+(./2.1.3.aux
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
 .
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-\openout1 = `1.4.8.aux'.
+\openout1 = `2.1.3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -444,17 +459,17 @@ LaTeX Font Info:    ... okay on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
-\scratchdimen=\dimen165
-\scratchbox=\box50
-\nofMPsegments=\count199
-\nofMParguments=\count266
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count267
-\MPscratchDim=\dimen166
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count284
+\scratchdimen=\dimen172
+\scratchbox=\box56
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen173
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -466,6 +481,7 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \th on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -505,191 +521,171 @@ Package geometry Warning: The marginal notes overrun the paper.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./1.4.8.toc
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 6.
+(Font)              using `T2A/cmr/m/n' instead on input line 26.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
-.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+6.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 6.
+(Font)              using `OML/cmr/m/it' instead on input line 26.
 
-LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
-.
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <20.74> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 26.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+6.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 6.
+(Font)              using `OMS/cmr/m/n' instead on input line 26.
 
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <20.74> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
+dvips/cm-super/cm-super-t2a.enc}] (./2.1.3.toc
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 )
 \tf@toc=\write3
-\openout3 = `1.4.8.toc'.
+\openout3 = `2.1.3.toc'.
 
  [1]
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 71.
+Package mathtext Warning: letter `cyrm' used in math mode on input line 83.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 71.
+Package mathtext Warning: letter `cyrm' used in math mode on input line 83.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 88.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 88.
 
 [2]
-
-Package mathtext Warning: letter `CYRG' used in math mode on input line 128.
-
-
-Package mathtext Warning: letter `cyrc' used in math mode on input line 128.
-
-
-Package mathtext Warning: letter `CYRG' used in math mode on input line 128.
-
-
-Package mathtext Warning: letter `cyrc' used in math mode on input line 128.
-
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 130.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 130.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 130.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 131.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 131.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3]
-Overfull \hbox (10.88359pt too wide) in paragraph at lines 202--202
-[]\T2A/cmr/bx/n/12 Ёксперимент с по-ло-ви-ной ре-зо-нанс-ной ча-сто-ты в дю-ра-
-лю-ми-ни-е-вом стержне 
- []
-
-
-Package mathtext Warning: letter `cyrd' used in math mode on input line 206.
-
-
-Package mathtext Warning: letter `cyryu' used in math mode on input line 206.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 206.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 212.
-
-
-Package mathtext Warning: letter `cyre' used in math mode on input line 212.
-
-
-Package mathtext Warning: letter `cyrz' used in math mode on input line 212.
-
-<Figure_2.png, id=33, 1387.584pt x 638.1441pt>
-File: Figure_2.png Graphic file (type png)
-<use Figure_2.png>
-Package pdftex.def Info: Figure_2.png  used on input line 233.
-(pdftex.def)             Requested size: 483.69687pt x 222.44821pt.
-<Figure_1.png, id=35, 1387.584pt x 638.1441pt>
-File: Figure_1.png Graphic file (type png)
-<use Figure_1.png>
-Package pdftex.def Info: Figure_1.png  used on input line 239.
-(pdftex.def)             Requested size: 483.69687pt x 222.44821pt.
-<lissaju.jpg, id=36, 963.6pt x 1284.8pt>
-File: lissaju.jpg Graphic file (type jpg)
-<use lissaju.jpg>
-Package pdftex.def Info: lissaju.jpg  used on input line 245.
-(pdftex.def)             Requested size: 241.84843pt x 322.4539pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+<scheme.png, id=29, 600.2425pt x 379.4175pt>
+File: scheme.png Graphic file (type png)
+<use scheme.png>
+Package pdftex.def Info: scheme.png  used on input line 117.
+(pdftex.def)             Requested size: 386.95897pt x 244.60371pt.
+<25.png, id=31, 1345.6674pt x 685.8423pt>
+File: 25.png Graphic file (type png)
+<use 25.png>
+Package pdftex.def Info: 25.png  used on input line 122.
+(pdftex.def)             Requested size: 483.69687pt x 246.51582pt.
+<35.png, id=32, 1345.6674pt x 685.8423pt>
+File: 35.png Graphic file (type png)
+<use 35.png>
+Package pdftex.def Info: 35.png  used on input line 127.
+(pdftex.def)             Requested size: 483.69687pt x 246.51582pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+<45.png, id=33, 1345.6674pt x 685.8423pt>
+File: 45.png Graphic file (type png)
+<use 45.png>
+Package pdftex.def Info: 45.png  used on input line 132.
+(pdftex.def)             Requested size: 483.69687pt x 246.51582pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] [5
+<55.png, id=34, 1345.6674pt x 685.8423pt>
+File: 55.png Graphic file (type png)
+<use 55.png>
+Package pdftex.def Info: 55.png  used on input line 137.
+(pdftex.def)             Requested size: 483.69687pt x 246.51582pt.
 
-]
-Overfull \vbox (10.0pt too high) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+[3 <./scheme.png> <./25.png>] [4 <./35.png> <./45.png>] [5 <./55.png>]
+(./2.1.3.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
 
-(./1.4.8.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5473 strings out of 481239
- 79097 string characters out of 5920376
- 336910 words of memory out of 5000000
- 20674 multiletter control sequences out of 15000+600000
- 548275 words of font info for 53 fonts, out of 8000000 for 9000
+ 6525 strings out of 474222
+ 105360 string characters out of 5748734
+ 1938975 words of memory out of 5000000
+ 28721 multiletter control sequences out of 15000+600000
+ 572402 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,42p,920b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/
-share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-frm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on 1.4.8.pdf (6 pages, 237549 bytes).
+ 57i,11n,65p,762b,318s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfrm1728.pfb>
+Output written on 2.1.3.pdf (6 pages, 564989 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 120 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
